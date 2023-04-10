@@ -22,7 +22,15 @@ function Intro() {
         >
           HERE
         </a>
-        and then you can find all my projects and my youtube channel over{" "}
+        and then you can find all my projects over{" "}
+        <a
+          className="text-cyan-600 underline hover:underline-offset-4 m-1"
+          href="https://github.com/Mishalabdullah"
+          target="blank"
+        >
+          HERE
+        </a>{" "}
+        and my youtube channel over{" "}
         <a
           className="text-cyan-600 underline hover:underline-offset-4 m-1"
           href="https://www.youtube.com/@Prinux."
